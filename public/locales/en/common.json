@@ -1,0 +1,105 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings"
+  },
+  "auth": {
+    "login": {
+      "title": "Sign in",
+      "subtitle": "Enter your email and password to sign in to your account",
+      "email": "Email",
+      "password": "Password",
+      "forgotPassword": "Forgot password?",
+      "signIn": "Sign in",
+      "signingIn": "Signing in...",
+      "noAccount": "Don't have an account?",
+      "signUp": "Sign up"
+    },
+    "register": {
+      "title": "Create account",
+      "subtitle": "Enter your information to create your account",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "confirmPassword": "Confirm Password",
+      "terms": "I agree to the Terms of Service and Privacy Policy",
+      "createAccount": "Create account",
+      "creatingAccount": "Creating account...",
+      "hasAccount": "Already have an account?",
+      "signIn": "Sign in"
+    },
+    "forgotPassword": {
+      "title": "Forgot password",
+      "subtitle": "Enter your email address and we'll send you a link to reset your password",
+      "email": "Email",
+      "sendResetLink": "Send reset link",
+      "sending": "Sending...",
+      "checkEmail": "Check your email",
+      "checkEmailSubtitle": "We've sent a password reset link to your email address",
+      "noEmail": "Didn't receive the email? Check your spam folder or",
+      "tryAgain": "try again",
+      "backToLogin": "Back to login",
+      "rememberPassword": "Remember your password?",
+      "signIn": "Sign in"
+    },
+    "resetPassword": {
+      "title": "Reset password",
+      "subtitle": "Enter your new password below",
+      "newPassword": "New Password",
+      "confirmNewPassword": "Confirm New Password",
+      "resetPassword": "Reset password",
+      "resettingPassword": "Resetting password...",
+      "success": "Password reset successful",
+      "successSubtitle": "Your password has been successfully reset. You can now sign in with your new password.",
+      "continueToLogin": "Continue to login",
+      "invalidLink": "Invalid reset link",
+      "invalidLinkSubtitle": "The password reset link is invalid or has expired.",
+      "requestNewLink": "Request new reset link",
+      "rememberPassword": "Remember your password?",
+      "signIn": "Sign in"
+    }
+  },
+  "validation": {
+    "required": "This field is required",
+    "email": "Invalid email format",
+    "password": {
+      "minLength": "Password must be at least {{min}} characters",
+      "pattern": "Password must contain at least one uppercase letter, one lowercase letter, and one number"
+    },
+    "confirmPassword": "Passwords must match",
+    "firstName": "First name must be at least 2 characters",
+    "lastName": "Last name must be at least 2 characters",
+    "phone": "Invalid phone number format",
+    "terms": "You must accept the terms and conditions"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "create": "Create",
+    "update": "Update",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "actions": "Actions",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "open": "Open",
+    "yes": "Yes",
+    "no": "No"
+  }
+}

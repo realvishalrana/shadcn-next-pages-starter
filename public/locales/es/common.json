@@ -1,0 +1,105 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "logout": "Cerrar sesión",
+    "dashboard": "Panel de control",
+    "profile": "Perfil",
+    "settings": "Configuración"
+  },
+  "auth": {
+    "login": {
+      "title": "Iniciar sesión",
+      "subtitle": "Ingresa tu email y contraseña para acceder a tu cuenta",
+      "email": "Email",
+      "password": "Contraseña",
+      "forgotPassword": "¿Olvidaste tu contraseña?",
+      "signIn": "Iniciar sesión",
+      "signingIn": "Iniciando sesión...",
+      "noAccount": "¿No tienes una cuenta?",
+      "signUp": "Regístrate"
+    },
+    "register": {
+      "title": "Crear cuenta",
+      "subtitle": "Ingresa tu información para crear tu cuenta",
+      "firstName": "Nombre",
+      "lastName": "Apellido",
+      "email": "Email",
+      "password": "Contraseña",
+      "confirmPassword": "Confirmar contraseña",
+      "terms": "Acepto los Términos de Servicio y la Política de Privacidad",
+      "createAccount": "Crear cuenta",
+      "creatingAccount": "Creando cuenta...",
+      "hasAccount": "¿Ya tienes una cuenta?",
+      "signIn": "Iniciar sesión"
+    },
+    "forgotPassword": {
+      "title": "Olvidé mi contraseña",
+      "subtitle": "Ingresa tu dirección de email y te enviaremos un enlace para restablecer tu contraseña",
+      "email": "Email",
+      "sendResetLink": "Enviar enlace de restablecimiento",
+      "sending": "Enviando...",
+      "checkEmail": "Revisa tu email",
+      "checkEmailSubtitle": "Hemos enviado un enlace de restablecimiento de contraseña a tu dirección de email",
+      "noEmail": "¿No recibiste el email? Revisa tu carpeta de spam o",
+      "tryAgain": "inténtalo de nuevo",
+      "backToLogin": "Volver al inicio de sesión",
+      "rememberPassword": "¿Recuerdas tu contraseña?",
+      "signIn": "Iniciar sesión"
+    },
+    "resetPassword": {
+      "title": "Restablecer contraseña",
+      "subtitle": "Ingresa tu nueva contraseña a continuación",
+      "newPassword": "Nueva contraseña",
+      "confirmNewPassword": "Confirmar nueva contraseña",
+      "resetPassword": "Restablecer contraseña",
+      "resettingPassword": "Restableciendo contraseña...",
+      "success": "Contraseña restablecida exitosamente",
+      "successSubtitle": "Tu contraseña ha sido restablecida exitosamente. Ahora puedes iniciar sesión con tu nueva contraseña.",
+      "continueToLogin": "Continuar al inicio de sesión",
+      "invalidLink": "Enlace de restablecimiento inválido",
+      "invalidLinkSubtitle": "El enlace de restablecimiento de contraseña es inválido o ha expirado.",
+      "requestNewLink": "Solicitar nuevo enlace de restablecimiento",
+      "rememberPassword": "¿Recuerdas tu contraseña?",
+      "signIn": "Iniciar sesión"
+    }
+  },
+  "validation": {
+    "required": "Este campo es obligatorio",
+    "email": "Formato de email inválido",
+    "password": {
+      "minLength": "La contraseña debe tener al menos {{min}} caracteres",
+      "pattern": "La contraseña debe contener al menos una letra mayúscula, una letra minúscula y un número"
+    },
+    "confirmPassword": "Las contraseñas deben coincidir",
+    "firstName": "El nombre debe tener al menos 2 caracteres",
+    "lastName": "El apellido debe tener al menos 2 caracteres",
+    "phone": "Formato de número de teléfono inválido",
+    "terms": "Debes aceptar los términos y condiciones"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "success": "Éxito",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "create": "Crear",
+    "update": "Actualizar",
+    "search": "Buscar",
+    "filter": "Filtrar",
+    "sort": "Ordenar",
+    "actions": "Acciones",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "yes": "Sí",
+    "no": "No"
+  }
+}
