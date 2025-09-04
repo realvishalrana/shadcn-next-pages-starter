@@ -88,7 +88,7 @@ const DashboardLayout = ({ children }) => {
                   Dashboard
                 </h1>
                 <p className="text-sm text-gray-600 hidden sm:block">
-                  Welcome back to TWELFTH MAN
+                  Welcome back to Fantasy Cricket
                 </p>
               </div>
             </div>
